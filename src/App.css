@@ -1,0 +1,5 @@
+#WelcomeButton:hover {
+    background: linear-gradient(to right, #D3CCE3,#E9E4F0 );
+    background-clip: text;
+    color: transparent
+}
